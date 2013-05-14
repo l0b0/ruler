@@ -9,9 +9,9 @@
     >
     <defs>
         <g id="ticks" stroke="black">
-            <line id="mm-tick" x1="-0.1" x2="1000.1" stroke-width="1" stroke-dasharray="0.2 0.8"/>
+            <line id="mm-tick" x1="-0.1" x2="1000.1" stroke-width="1.4142135623" stroke-dasharray="0.2 0.8"/>
             <line id="cm-tick" x1="-0.15" x2="1000.15" stroke-width="2" stroke-dasharray="0.3 9.7"/>
-            <line id="5cm-tick" x1="49.85" x2="1000.15" stroke-width="3" stroke-dasharray="0.3 99.7"/>
+            <line id="5cm-tick" x1="49.85" x2="1000.15" stroke-width="2.8284271247" stroke-dasharray="0.3 99.7"/>
             <line id="dm-tick" x1="-0.2" x2="1000.2" stroke-width="4" stroke-dasharray="0.4 99.6"/>
         </g>
         <line id="line" x2="1000" stroke="black" stroke-width="0.3"/>
