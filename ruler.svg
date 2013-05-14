@@ -14,7 +14,7 @@
             <line id="5cm-tick" x1="49.85" x2="1000.15" stroke-width="3" stroke-dasharray="0.3 99.7"/>
             <line id="dm-tick" x1="-0.2" x2="1000.2" stroke-width="4" stroke-dasharray="0.4 99.6"/>
         </g>
-        <line id="line" x2="1000" stroke="black" stroke-width="0.5"/>
+        <line id="line" x2="1000" stroke="black" stroke-width="0.3"/>
         <g id="cm-numbers" text-anchor="middle" font-size="3">
             <text x="10">1</text>
             <text x="20">2</text>
