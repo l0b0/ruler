@@ -19,7 +19,7 @@
             <line id="5cm-tick" x1="49.85" x2="1000.15" stroke-width="3" stroke-dasharray="0.3 99.7"/>
             <line id="dm-tick" x1="-0.2" x2="1000.2" stroke-width="4" stroke-dasharray="0.4 99.6"/>
         </g>
-        <line id="line" x1="0" y1="0" x2="1000" y2="0" stroke="black" stroke-width="0.5"/>
+        <line id="line" x2="1000" stroke="black" stroke-width="0.5"/>
         <g id="cm-numbers" text-anchor="middle" font-size="3">
             <text x="10">1</text>
             <text x="20">2</text>
@@ -43,7 +43,7 @@
             <text x="950">95</text>
         </g>
         <g id="dm-numbers" text-anchor="middle" font-size="5">
-            <text x="0">0</text>
+            <text>0</text>
             <text x="100">10</text>
             <text x="200">20</text>
             <text x="300">30</text>
